@@ -1,2 +1,2 @@
 *.bash linguist-language=Bash
-*.yml linguist-language=YAML
+*.yml linguist-language=yml
